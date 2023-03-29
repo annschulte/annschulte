@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ann Schulte</h1>
 <h3 align="center">I’m Ann, a software developer based in Omaha. I am focused on building clean, high-quality digital experiences. I am passionate about using code as a tool to solve problems and empower users.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=annschulte" alt="annschulte" /></a> </p>
-
 - 🔭 I’m currently working on **Plexus**
 
 - 🌱 I’m currently learning **D3**
