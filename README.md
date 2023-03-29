@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://annschulteportfolio.vercel.app](https://annschulteportfolio.vercel.app)
 
-- 💬 Ask me about **React, NEXT**
+- 💬 Ask me about **how skateboarding informs my development process**
 
 - 📫 How to reach me **aschulte1919@gmail.com**
 
