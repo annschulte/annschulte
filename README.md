@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ann Schulte</h1>
 <h3 align="center">I’m Ann, a software developer based in Omaha. I am focused on building clean, high-quality digital experiences. I am passionate about using code as a tool to solve problems and empower users.</h3>
 
-- 🔭 I’m currently working on **Plexus**
+- 🛰️ I’m currently working at **Quindar**
 
 - 🌱 I’m currently learning **D3**
-
-- 👯 I’m looking to collaborate on **a data visualization library**
 
 - 👨‍💻 All of my projects are available at [https://annschulteportfolio.vercel.app](https://annschulteportfolio.vercel.app)
 
