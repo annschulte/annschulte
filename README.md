@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ann Schulte</h1>
-<h3 align="center">I’m Ann, a software developer based in Omaha. I am focused on building clean, high-quality digital experiences. I am passionate about using code as a tool to solve problems and empower users.</h3>
+<h1 align="center">Hi, I'm Ann Schulte</h1>
+<h3 align="center">I’m Ann, a software engineer based in Omaha, NE. I am focused on building clean, high-quality digital experiences. I am passionate about using technology as a tool to solve problems and empower users.</h3>
 
 - 🛰️ I’m currently working at **Quindar**
 
