@@ -1,13 +1,13 @@
 # Hi, I'm Ann Schulte
 #### I'm a software developer based out of Omaha, NE. I'd describe myself as a builder. I love the process of creating, whether it be in the form of new technology  or a diy home project. I get a lot of enjoyment from using my hands and creativity.
 
-- ️🧱 I’m currently building  [Bolt](https://www.boltfeed.app/)
+🧱 I’m currently building  [Bolt](https://www.boltfeed.app/)
 
-- ✨ All of my projects are available at [https://annschulteportfolio.vercel.app](https://annschulteportfolio.vercel.app)
+✨ All of my projects are available at [https://annschulteportfolio.vercel.app](https://annschulteportfolio.vercel.app)
 
-- 🛹 Ask me about **how skateboarding informs my development process**
+🛹 Ask me about **how skateboarding informs my development process**
 
-- ✉️ Email me at **aschulte1919@gmail.com** I would love to talk
+✉️ Email me at **aschulte1919@gmail.com** I would love to talk
 
 ## My Values
 
