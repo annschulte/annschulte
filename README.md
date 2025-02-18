@@ -3,11 +3,9 @@
 
 🧱 I’m currently building  [Bolt](https://www.boltfeed.app/)
 
-✨ All of my projects are available at [https://annschulteportfolio.vercel.app](https://annschulteportfolio.vercel.app)
+❤️ I love family, sports (watching & playing), dogs and diy projects.
 
-🛹 Ask me about **how skateboarding informs my development process**
-
-✉️ Email me at **aschulte1919@gmail.com** I would love to talk
+✨ Email me at **aschulte1919@gmail.com** I would love to talk
 
 ## My Values
 
