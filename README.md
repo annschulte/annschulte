@@ -1,13 +1,16 @@
-<h1 align="center">Hi, I'm Ann Schulte</h1>
-<h3 align="center">I’m Ann, an engineer. I am focused on building clean, high-quality experiences. I am passionate about using technology as a tool to solve problems and empower users.</h3>
+<h2 align="center">Hi, I'm Ann Schulte</h2>
+<h3 align="center">I'm a software developer based out of Omaha, NE. I'd describe myself as an explorer. I love the process of discovery, whether it be in the form of new technology, a recipe, or a diy home project. I get a lot of enjoyment from exploring.</h3>
 
-- 🛰️ I’m currently working at **Quindar**
+- 🛰️ I’m currently building at [Bolt](https://www.boltfeed.app/)
 
-- 👨‍💻 All of my projects are available at [https://annschulteportfolio.vercel.app](https://annschulteportfolio.vercel.app)
+- ✨ All of my projects are available at [https://annschulteportfolio.vercel.app](https://annschulteportfolio.vercel.app)
 
-- 💬 Ask me about **how skateboarding informs my development process**
+- 🛹 Ask me about **how skateboarding informs my development process**
 
-- 📫 How to reach me **aschulte1919@gmail.com**
+- ✉️ Email me at **aschulte1919@gmail.com** I would love to talk
+
+## My Values
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
