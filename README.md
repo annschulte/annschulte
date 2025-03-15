@@ -1,11 +1,11 @@
 # Hi, I'm Ann Schulte
 #### I'm a software developer based out of Omaha, NE. I'd describe myself as a builder. I love the process of creating, whether it be in the form of new technology  or a diy home project. I get a lot of enjoyment from using my hands and creativity.
 
-🧱 I’m currently building  [Bolt](https://www.boltfeed.app/)
+🧱 I’m currently building  [Memr](https://www.memr.app/)
 
 ❤️ I love family, sports (watching & playing), dogs and diy projects.
 
-✨ Email me at **aschulte1919@gmail.com** I would love to talk
+✨ Email me at **ann@memr.app** I would love to talk
 
 ## My Values
 
