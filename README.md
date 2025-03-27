@@ -3,6 +3,8 @@
 
 🧱 I’m currently building  [Memr](https://www.memr.app/)
 
+👩‍💻 I’m working at  [Workshop](https://www.useworkshop.com/)
+
 ❤️ I love family, sports (watching & playing), dogs and diy projects.
 
 ✨ Email me at **ann@memr.app** I would love to talk
