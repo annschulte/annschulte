@@ -7,7 +7,7 @@
 
 ❤️ I love family, sports (watching & playing), dogs and diy projects.
 
-✨ Email me at **ann@memr.app** I would love to talk
+✨ Email me at **aschulte1919@gmail.com** I would love to talk
 
 ## My Values
 
