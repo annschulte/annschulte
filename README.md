@@ -1,7 +1,7 @@
-# Hi, I'm Ann Schulte
+# Hi, I'm Ann
 #### I'm a software developer based out of Omaha, NE. I'd describe myself as a builder. I love the process of creating, whether it be in the form of new technology  or a diy home project. I get a lot of enjoyment from using my hands and creativity.
 
-🧱 I’m currently building  [Memr](https://www.memr.app/)
+🧱 I’m currently building  [Plexus]()
 
 👩‍💻 I’m working at  [Workshop](https://www.useworkshop.com/)
 
