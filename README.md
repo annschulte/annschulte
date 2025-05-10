@@ -9,16 +9,6 @@
 
 ✨ Email me at **aschulte1919@gmail.com** I would love to talk
 
-## My Values
-
-**See & Do** - Actively seek opportunities to help others, take initiative, and turn observations into meaningful actions
-
-**Be Curious** - Approach life, people, and challenges with genuine interest and kindness; seek to understand before being understood
-
-**Creator/Builder** - Create meaningful relationships, communities, and find joy in bringing ideas to life with purpose and care
-
-**Keep Moving** - stay physically active, find joy in motion, and keep looking forward focusing on the things that matter
-
 
 <p align="left">
 <a href="https://codepen.io/aschulte1919" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aschulte1919" height="30" width="40" /></a>
