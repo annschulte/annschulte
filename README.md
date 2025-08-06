@@ -1,11 +1,9 @@
 # Hi, I'm Ann
-#### I'm a software developer based out of Omaha, NE. I'd describe myself as a builder. I love the process of creating, whether it be in the form of new technology  or a diy home project. I get a lot of enjoyment from using my hands and creativity.
+#### I'm a software developer based out of Omaha, NE. I'd describe myself as a builder. I love the process of creating, whether it be in the form of new technology or a diy home project. I get a lot of enjoyment from using my hands and creativity.
 
 🧱 I’m currently building  [Plexus](https://plexusaero.space/)
 
-❤️ I love family, sports (watching & playing), dogs and diy projects.
-
-✨ Email me at **aschulte1919@gmail.com** I would love to talk
+❤️ I love family, philosophy, dogs and diy projects.
 
 
 <p align="left">
