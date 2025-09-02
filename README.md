@@ -3,7 +3,7 @@
 
 🧱 I’m currently building  [Plexus](https://plexusaero.space/)
 
-❤️ I love family, philosophy, dogs and diy projects.
+❤️ I love family, dogs and diy projects.
 
 
 <p align="left">
