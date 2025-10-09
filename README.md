@@ -8,6 +8,4 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/annschulte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="annschulte" height="30" width="40" /></a>
-<a href="https://codesandbox.com/aschulte1919" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="aschulte1919" height="30" width="40" /></a>
-<a href="https://instagram.com/annschulte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="annschulte" height="30" width="40" /></a>
 </p>
