@@ -1,7 +1,8 @@
-# Hi, I'm Ann
-#### I'm a product engineer. I'd describe myself as a builder. I love the process of creating, whether it be in the form of new technology or a diy home project. I get a lot of enjoyment from helping others in unique ways.
+####  Hi! 👋 I'm a product engineer, and I love building beautiful products that make a difference in people's lives! I've been fortunate to work at some incredible startups across healthcare and ad tech. One of my favorite experiences was being the first hire at an aerospace company, where I built design systems and UIs that are now live in satellite operations rooms.
 
 I’m currently building  [Plexus](https://plexusaero.space/)
+
+
 
 
 
